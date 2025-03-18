@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+        .container { width: 50%; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; }
+        button { padding: 10px 20px; margin-top: 10px; cursor: pointer; }
+        img { margin-top: 10px; border: 1px solid #000; max-width: 100%; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>{{ title }}</h1>
+        
+        <h3>Status do LED: <span id="led-status">{{ led_status }}</span></h3>
+        <button onclick="toggleLed()">Alternar LED</button>
+
+        <h3>Última Imagem Recebida:</h3>
+        <p>{{ image_filename }}</p>
+        {% if image_filename != "Nenhuma imagem recebida" %}
+            <img src="{{ url_for('uploaded_file', filename=image_filename) }}" alt="Imagem recebida" width="300">
+        {% else %}
+            <p>Nenhuma imagem disponível.</p>
+        {% endif %}
+
+        <h3>Último G-Code Recebido:</h3>
+        <p>{{ gcode_filename }}</p>
+        {% if gcode_filename != "Nenhum G-Code recebido" %}
+            <a href="{{ url_for('uploaded_file', filename=gcode_filename) }}" download>Baixar G-Code</a>
+        {% else %}
+            <p>Nenhum arquivo disponível.</p>
+        {% endif %}
+    </div>
+
+    <script>
+        function toggleLed() {
+            fetch('/toggle-led', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("led-status").innerText = data.status;
+                });
+        }
+    </script>
+
+</body>
+</html>

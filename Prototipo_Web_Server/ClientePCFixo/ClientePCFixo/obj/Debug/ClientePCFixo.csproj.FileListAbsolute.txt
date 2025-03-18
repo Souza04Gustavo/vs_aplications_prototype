@@ -1,0 +1,10 @@
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\bin\Debug\ClientePCFixo.exe.config
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\bin\Debug\ClientePCFixo.exe
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\bin\Debug\ClientePCFixo.pdb
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.csproj.AssemblyReference.cache
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.Form1.resources
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.Properties.Resources.resources
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.csproj.GenerateResource.cache
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.csproj.CoreCompileInputs.cache
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.exe
+C:\Users\lostv\source\repos\ClientePCFixo\ClientePCFixo\obj\Debug\ClientePCFixo.pdb

@@ -1,0 +1,14 @@
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\bin\Debug\Projeto_Controle_Basico.exe.config
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\bin\Debug\Projeto_Controle_Basico.exe
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\bin\Debug\Projeto_Controle_Basico.pdb
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.csproj.AssemblyReference.cache
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.Form1.resources
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.Properties.Resources.resources
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.csproj.GenerateResource.cache
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.csproj.CoreCompileInputs.cache
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.exe
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.pdb
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\bin\Debug\Projeto_Controle_Basico.exe.manifest
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\bin\Debug\Projeto_Controle_Basico.application
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.exe.manifest
+C:\Users\lostv\source\repos\Projeto_Controle_Basico\Projeto_Controle_Basico\obj\Debug\Projeto_Controle_Basico.application
