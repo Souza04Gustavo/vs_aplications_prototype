@@ -11,9 +11,12 @@ Este projeto controla um gaveteiro inteligente (16 portas, 16 compartimentos/por
 *   Monitoramento de sensores de porta.
 
 ## Planilha
+## Planilha
+
 <p>A planilha abaixo é interativa e pode ser rolada:</p>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7ztB25fEQCpBAENChTXUzVHI5VO_87PDvmnz8HwPExWxyJEmypBygY17J2e2FshhTQV_4VCZMQVP5/pubhtml?widget=true&headers=false" width="100%" height="600"></iframe>
+
 
 ---
 
